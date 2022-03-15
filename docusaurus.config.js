@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Kerala IoT Challenge',
   tagline: 'IOT is cool',
-  url: 'myiotprojectdocs',
+  url: 'myiotprojectdocs.surge.sh',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
