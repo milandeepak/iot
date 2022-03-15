@@ -1,6 +1,10 @@
 ---
 id: greeting
 title: Hello
+
+sidebar_label: 'Hi!'
+sidebar_position: 3
+
 ---
 
 ## Hello from Docusaurus
